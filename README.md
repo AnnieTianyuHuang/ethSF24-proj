@@ -3,6 +3,7 @@
 ## About Pinnect
 
 Pinnect is an innovative open-world co-creation platform that revolutionizes how people interact with and conceive storytelling. It allows users to place their narratives within specific geographic locations on a virtual map, linking ideas and expanding upon existing tales contributed by others. This digital ecosystem supports a vibrant community of creators, from writers and artists to thinkers, who wish to leave their mark on a shared, evolving narrative landscape.
+<img width="1237" alt="Snipaste_2024-10-20_00-00-42" src="https://github.com/user-attachments/assets/50f9a9f6-8a54-4a68-97a5-9a9c0c1fc80f">
 
 ## Basic Functionality
 
@@ -10,6 +11,7 @@ Pinnect is an innovative open-world co-creation platform that revolutionizes how
 - **Story Linking:** Stories can be interconnected, allowing a narrative thread to weave through various contributions.
 - **Interactive Map:** A dynamic map displays all the contributions, which users can explore and select to read different stories or add their own.
 - **User Profiles:** Creators can manage their profiles, showcasing their contributions and collaborations.
+<img width="1243" alt="Snipaste_2024-10-20_00-00-59" src="https://github.com/user-attachments/assets/45ca3b77-09d0-4698-b281-2ddc0ccc6d84">
 
 ## Integration with Story Protocol
 
@@ -18,14 +20,16 @@ To enhance the protection and monetization of intellectual property (IP) created
 - **IP Registration:** Each story submitted is registered as an IP asset on the Story blockchain, ensuring creators' ownership is verifiable and secure.
 - **Licensing and Monetization:** Creators can set terms for how others may use their stories, whether through direct licensing or via more complex contractual arrangements facilitated by the Story Protocol.
 - **Royalty Distribution:** As stories are used and built upon, original creators receive royalties automatically, managed through smart contracts on the Story blockchain.
+<img width="1240" alt="Snipaste_2024-10-20_00-01-21" src="https://github.com/user-attachments/assets/31b43224-6a52-4fa0-bd99-48a2714ca194">
 
 ## DAO Tooling for Creators
 
 Pinnect not only serves as a platform for creative expression but also as a DAO (Decentralized Autonomous Organization) tooling solution that empowers creators:
 
-- **Governance:** Creators can participate in governance decisions regarding the platform's development and rules, influencing how the community evolves.
-- **Tokenomics:** Participation and contribution are incentivized through a token system, where creators earn tokens for their activity, which can be used for governance or traded.
-- **Community Funding:** Creators can propose projects or enhancements and receive funding from the community treasury.
+- **Decentralized Story Co-Creation:** Dive into a collaborative open-world map where creators from around the globe can add and evolve stories, fostering a decentralized network of narrative co-creation.
+- **Community-Driven Idea Linking:** Harness the power of collective creativity by linking individual narratives to form expansive, community-curated story arcs that enhance the shared virtual space.
+- **DAO-Managed Royalty Distributions:** Ensure fair compensation through automated royalty payments governed by DAO, rewarding creators when their intellectual property fuels new community contributions.
+<img width="1240" alt="Snipaste_2024-10-20_00-01-34" src="https://github.com/user-attachments/assets/4666ac9d-853f-42c6-9196-c22628ebbf6c">
 
 ## Prize Tracks and Integration Details
 
