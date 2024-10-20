@@ -2,8 +2,6 @@
 //  CreateView2.swift
 //  Forge UX Demo
 //
-//  Created by Race Li on 2023/8/3.
-//
 
 import SwiftUI
 import UIKit

@@ -2,8 +2,6 @@
 //  ChatDemo.swift
 //  CoMap
 //
-//  Created by Race Li on 2023/10/29.
-//
 
 import SwiftUI
 import WebKit
