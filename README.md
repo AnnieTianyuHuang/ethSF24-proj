@@ -1,4 +1,4 @@
-# Pinnect: A Decentralized Platform for Story Collaboration
+# Pinnect: Open-World for Story Co-creation
 
 ## About Pinnect
 
